@@ -1,4 +1,4 @@
-#This site is Created for 
-#Currency Converter APP 
-#to integration with
-#Google AdMob Acoount
+## This site is Created for
+# Currency Converter APP
+## To integration with
+## Google AdMob Account
